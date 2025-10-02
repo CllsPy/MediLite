@@ -1,4 +1,6 @@
-# medlite
+# THIS TEXT IS A WORK ON PROGRESS 
+
+## medlite
 O objetivo do projeto era experimentar com [LFM2-1.2B-GGUF](https://huggingface.co/LiquidAI/LFM2-1.2B-GGUF). Por se apresentar um modelo leve sendo capaz inclusive de rodar via CPU. Pelo seu tamanho, tarefas como condificação apresentam grande limitações. 
 
 ## Porque?
