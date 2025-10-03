@@ -7,5 +7,5 @@ O objetivo do projeto era experimentar com [LFM2-1.2B-GGUF](https://huggingface.
 Partimos do pressuposto de que uma qualidade maior de parâmetros implica modelos melhores, nessa direção o uso dos modelos generativos se restrige a quem possui grande poder de harware, a alternativa os Small Language models se provaram democráticos e eficientes em certas tarefas quando treinados com dataset específicos [Ronen Eldan & Yuanzhi Li, 2023](https://arxiv.org/abs/2305.07759)
 
 ## Demo
-https://github.com/user-attachments/assets/9cfc59d2-021d-4de8-bd56-322731903ff0
+https://github.com/user-attachments/assets/e1a9fc76-9545-4f46-8322-e57037a31b3a
 
